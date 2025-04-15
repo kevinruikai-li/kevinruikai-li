@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi👋
+**I'm Kevin, a Software Engineering student at McGill University** 🖥️
+
+💼 Work Experience:
+- Software Developer Intern at Intact 🚗🏠
+- Full Stack Developer Intern at CAE ✈️
+
+⚙️⌨️ Languages and Tools:
+- Java, Python, C, Bash, JavaScript, HTML, CSS, OCaml
+- Spring Boot, Docker, PostgreSQL, MongoDB, Git, Matplotlib, Pandas, Scikit-learn
 
 <!--
 **kevinruikai-li/kevinruikai-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
